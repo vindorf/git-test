@@ -1,3 +1,0 @@
-Name: Hans
-Age: 1000
-Color: pink
